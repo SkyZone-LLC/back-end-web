@@ -19,4 +19,4 @@ The lessons will be available on your student portal as soon as they have been i
 ## Resources
 Will be updated as class moves on.
 
-© SkyZone Academy
+<b>© SkyZone Academy</b>
